@@ -6,7 +6,7 @@ namespace FibonacciSeries
     {
         static void Main(string[] args)
         {
-
+           //space added in the feature branch
             int size = 7;
             int[] fibonacciNumbers = new int[size];
             int index = 0;
@@ -65,7 +65,7 @@ namespace FibonacciSeries
             }
 
             return fibonacciNumbers;
-            //space added
+			
         }
 
 
