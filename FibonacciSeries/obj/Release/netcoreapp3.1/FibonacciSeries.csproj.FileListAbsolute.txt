@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\FibonacciSeries\FibonacciSeries\obj\Release\netcoreapp3.1\FibonacciSeries.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FibonacciSeries\FibonacciSeries\obj\Release\netcoreapp3.1\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FibonacciSeries\FibonacciSeries\obj\Release\netcoreapp3.1\FibonacciSeries.AssemblyInfo.cs

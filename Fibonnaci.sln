@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fibonnaci", "Fibonnaci.vbproj", "{C2AC9B2D-180E-47B0-AB1B-2342C383F179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AC9B2D-180E-47B0-AB1B-2342C383F179}.Debug|x86.ActiveCfg = Debug|x86
+		{C2AC9B2D-180E-47B0-AB1B-2342C383F179}.Debug|x86.Build.0 = Debug|x86
+		{C2AC9B2D-180E-47B0-AB1B-2342C383F179}.Release|x86.ActiveCfg = Release|x86
+		{C2AC9B2D-180E-47B0-AB1B-2342C383F179}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BC0510-0196-4E5C-86AC-19F4D8ACEC22}
+	EndGlobalSection
+EndGlobal
